@@ -29,3 +29,8 @@ This is the official (albeit simple) repository for the Rebel Architecture. This
 > This page is the most simple of all of them. It monitors an active view counter hosted by another service. This **is not avaliable in most releases.**
 
 > It does not grab IPS or any personal information that could be used against users.
+
+
+This repository is licensed under an End User License Agreement. By downloading, you understand these terms of service, avaliable here: https://pastebin.com/v1nWzeCx
+
+All Rights Reserved.
