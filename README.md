@@ -6,7 +6,7 @@ This is the official (albeit simple) repository for the Rebel Architecture. This
 
 # File Directory
 
-> .access.html
+## .access.html
 
 > .access.html will redirect within the folder of .rebel.html, and provides a view monitor service, although blocked out on this site.
 
